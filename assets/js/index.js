@@ -37,7 +37,7 @@ $(".singerInfo>.title").each(function(){
 // & section countdown
 
 window.onload = function(){    
-    countUntil("25 october 2024 5:48:18");
+    countUntil("25 october 2025 5:48:18");
 }
 function countUntil(date) {
 
