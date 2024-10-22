@@ -1,0 +1,19 @@
+// ^^ JS code
+// ~ Another way for slideBar
+// $(".hidden").css({width:"0px"});
+// let barclose= true;
+
+// $(".openBtn").on("click",function(){
+//     console.log("hellooo");
+//     if(barclose=true){
+//         $(".hidden").animate({width:"252px"},600)
+//         $(".openBtn").animate({left:"268px"},600)
+//     }
+// })
+
+// $(".closeBtn").on("click",function(){
+//     if(barclose=true){
+//         $(".hidden").animate({width:"0px"},600)
+//         $(".openBtn").animate({left:"20px"},600)
+//     }
+// })
